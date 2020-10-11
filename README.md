@@ -1,3 +1,3 @@
-# gsparnas.guthub.io
+# gsparnas.github.io
 gsparnas.ru official site
 #
